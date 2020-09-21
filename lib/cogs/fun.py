@@ -17,7 +17,7 @@ from config import TENOR_API_KEY  # pylint: disable=E0401
 class Fun(Cog):
     """Fun cog various fun commands"""
 
-    def __init__(self, bot):
+    def __init__(self, bot)onjlknlk:
         self.bot = bot
 
     @command(name="slap", aliases=["hit"],
